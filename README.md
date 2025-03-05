@@ -1,4 +1,4 @@
-![result](https://github.com/user-attachments/assets/5112c405-bbbf-428d-85a5-2b2468364b9d)# lanyun-gpu
+# lanyun-gpu
 本项目皆在为公益开发
 
 用于蓝耘GPU注册页的滑块绕过
@@ -7,4 +7,4 @@
 
 
 
-![Uploading 1741183389895.png…]()
+![result](https://github.com/user-attachments/assets/5112c405-bbbf-428d-85a5-2b2468364b9d)
